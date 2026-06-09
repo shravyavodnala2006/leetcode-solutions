@@ -28,4 +28,8 @@ My LeetCode practice solutions
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/shravyavodnala2006/leetcode-solutions/tree/master/0042-trapping-rain-water) |
+## Math
+|  |
+| ------- |
+| [0009-palindrome-number](https://github.com/shravyavodnala2006/leetcode-solutions/tree/master/0009-palindrome-number) |
 <!---LeetCode Topics End-->
