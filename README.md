@@ -8,6 +8,7 @@ My LeetCode practice solutions
 | ------- |
 | [0001-two-sum](https://github.com/shravyavodnala2006/leetcode-solutions/tree/master/0001-two-sum) |
 | [0042-trapping-rain-water](https://github.com/shravyavodnala2006/leetcode-solutions/tree/master/0042-trapping-rain-water) |
+| [0078-subsets](https://github.com/shravyavodnala2006/leetcode-solutions/tree/master/0078-subsets) |
 | [0088-merge-sorted-array](https://github.com/shravyavodnala2006/leetcode-solutions/tree/master/0088-merge-sorted-array) |
 ## Hash Table
 |  |
@@ -38,4 +39,12 @@ My LeetCode practice solutions
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/shravyavodnala2006/leetcode-solutions/tree/master/0088-merge-sorted-array) |
+## Backtracking
+|  |
+| ------- |
+| [0078-subsets](https://github.com/shravyavodnala2006/leetcode-solutions/tree/master/0078-subsets) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0078-subsets](https://github.com/shravyavodnala2006/leetcode-solutions/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->
