@@ -10,10 +10,12 @@ My LeetCode practice solutions
 | [0042-trapping-rain-water](https://github.com/shravyavodnala2006/leetcode-solutions/tree/master/0042-trapping-rain-water) |
 | [0078-subsets](https://github.com/shravyavodnala2006/leetcode-solutions/tree/master/0078-subsets) |
 | [0088-merge-sorted-array](https://github.com/shravyavodnala2006/leetcode-solutions/tree/master/0088-merge-sorted-array) |
+| [0560-subarray-sum-equals-k](https://github.com/shravyavodnala2006/leetcode-solutions/tree/master/0560-subarray-sum-equals-k) |
 ## Hash Table
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/shravyavodnala2006/leetcode-solutions/tree/master/0001-two-sum) |
+| [0560-subarray-sum-equals-k](https://github.com/shravyavodnala2006/leetcode-solutions/tree/master/0560-subarray-sum-equals-k) |
 ## Two Pointers
 |  |
 | ------- |
@@ -47,4 +49,8 @@ My LeetCode practice solutions
 |  |
 | ------- |
 | [0078-subsets](https://github.com/shravyavodnala2006/leetcode-solutions/tree/master/0078-subsets) |
+## Prefix Sum
+|  |
+| ------- |
+| [0560-subarray-sum-equals-k](https://github.com/shravyavodnala2006/leetcode-solutions/tree/master/0560-subarray-sum-equals-k) |
 <!---LeetCode Topics End-->
