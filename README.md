@@ -8,6 +8,7 @@ My LeetCode practice solutions
 | ------- |
 | [0001-two-sum](https://github.com/shravyavodnala2006/leetcode-solutions/tree/master/0001-two-sum) |
 | [0042-trapping-rain-water](https://github.com/shravyavodnala2006/leetcode-solutions/tree/master/0042-trapping-rain-water) |
+| [0053-maximum-subarray](https://github.com/shravyavodnala2006/leetcode-solutions/tree/master/0053-maximum-subarray) |
 | [0078-subsets](https://github.com/shravyavodnala2006/leetcode-solutions/tree/master/0078-subsets) |
 | [0088-merge-sorted-array](https://github.com/shravyavodnala2006/leetcode-solutions/tree/master/0088-merge-sorted-array) |
 | [0189-rotate-array](https://github.com/shravyavodnala2006/leetcode-solutions/tree/master/0189-rotate-array) |
@@ -27,6 +28,7 @@ My LeetCode practice solutions
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/shravyavodnala2006/leetcode-solutions/tree/master/0042-trapping-rain-water) |
+| [0053-maximum-subarray](https://github.com/shravyavodnala2006/leetcode-solutions/tree/master/0053-maximum-subarray) |
 ## Stack
 |  |
 | ------- |
@@ -61,4 +63,8 @@ My LeetCode practice solutions
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/shravyavodnala2006/leetcode-solutions/tree/master/0050-powx-n) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/shravyavodnala2006/leetcode-solutions/tree/master/0053-maximum-subarray) |
 <!---LeetCode Topics End-->
