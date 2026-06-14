@@ -13,6 +13,7 @@ My LeetCode practice solutions
 | [0088-merge-sorted-array](https://github.com/shravyavodnala2006/leetcode-solutions/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/shravyavodnala2006/leetcode-solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0189-rotate-array](https://github.com/shravyavodnala2006/leetcode-solutions/tree/master/0189-rotate-array) |
+| [0204-count-primes](https://github.com/shravyavodnala2006/leetcode-solutions/tree/master/0204-count-primes) |
 | [0560-subarray-sum-equals-k](https://github.com/shravyavodnala2006/leetcode-solutions/tree/master/0560-subarray-sum-equals-k) |
 ## Hash Table
 |  |
@@ -45,6 +46,7 @@ My LeetCode practice solutions
 | [0009-palindrome-number](https://github.com/shravyavodnala2006/leetcode-solutions/tree/master/0009-palindrome-number) |
 | [0050-powx-n](https://github.com/shravyavodnala2006/leetcode-solutions/tree/master/0050-powx-n) |
 | [0189-rotate-array](https://github.com/shravyavodnala2006/leetcode-solutions/tree/master/0189-rotate-array) |
+| [0204-count-primes](https://github.com/shravyavodnala2006/leetcode-solutions/tree/master/0204-count-primes) |
 ## Sorting
 |  |
 | ------- |
@@ -69,4 +71,12 @@ My LeetCode practice solutions
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/shravyavodnala2006/leetcode-solutions/tree/master/0053-maximum-subarray) |
+## Enumeration
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/shravyavodnala2006/leetcode-solutions/tree/master/0204-count-primes) |
+## Number Theory
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/shravyavodnala2006/leetcode-solutions/tree/master/0204-count-primes) |
 <!---LeetCode Topics End-->
