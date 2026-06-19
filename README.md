@@ -97,6 +97,7 @@ My LeetCode practice solutions
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/shravyavodnala2006/leetcode-solutions/tree/master/0002-add-two-numbers) |
+| [0083-remove-duplicates-from-sorted-list](https://github.com/shravyavodnala2006/leetcode-solutions/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0203-remove-linked-list-elements](https://github.com/shravyavodnala2006/leetcode-solutions/tree/master/0203-remove-linked-list-elements) |
 | [0237-delete-node-in-a-linked-list](https://github.com/shravyavodnala2006/leetcode-solutions/tree/master/0237-delete-node-in-a-linked-list) |
 <!---LeetCode Topics End-->
