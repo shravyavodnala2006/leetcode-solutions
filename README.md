@@ -90,4 +90,8 @@ My LeetCode practice solutions
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/shravyavodnala2006/leetcode-solutions/tree/master/0204-count-primes) |
+## Linked List
+|  |
+| ------- |
+| [0237-delete-node-in-a-linked-list](https://github.com/shravyavodnala2006/leetcode-solutions/tree/master/0237-delete-node-in-a-linked-list) |
 <!---LeetCode Topics End-->
