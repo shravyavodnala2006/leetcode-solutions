@@ -56,6 +56,7 @@ My LeetCode practice solutions
 | [0189-rotate-array](https://github.com/shravyavodnala2006/leetcode-solutions/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/shravyavodnala2006/leetcode-solutions/tree/master/0204-count-primes) |
 | [0445-add-two-numbers-ii](https://github.com/shravyavodnala2006/leetcode-solutions/tree/master/0445-add-two-numbers-ii) |
+| [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/shravyavodnala2006/leetcode-solutions/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 ## Sorting
 |  |
 | ------- |
@@ -108,5 +109,6 @@ My LeetCode practice solutions
 | [0206-reverse-linked-list](https://github.com/shravyavodnala2006/leetcode-solutions/tree/master/0206-reverse-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/shravyavodnala2006/leetcode-solutions/tree/master/0237-delete-node-in-a-linked-list) |
 | [0445-add-two-numbers-ii](https://github.com/shravyavodnala2006/leetcode-solutions/tree/master/0445-add-two-numbers-ii) |
+| [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/shravyavodnala2006/leetcode-solutions/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/shravyavodnala2006/leetcode-solutions/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 <!---LeetCode Topics End-->
