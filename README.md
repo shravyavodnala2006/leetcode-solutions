@@ -48,6 +48,7 @@ My LeetCode practice solutions
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/shravyavodnala2006/leetcode-solutions/tree/master/0002-add-two-numbers) |
 | [0009-palindrome-number](https://github.com/shravyavodnala2006/leetcode-solutions/tree/master/0009-palindrome-number) |
 | [0050-powx-n](https://github.com/shravyavodnala2006/leetcode-solutions/tree/master/0050-powx-n) |
 | [0189-rotate-array](https://github.com/shravyavodnala2006/leetcode-solutions/tree/master/0189-rotate-array) |
@@ -76,6 +77,7 @@ My LeetCode practice solutions
 ## Recursion
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/shravyavodnala2006/leetcode-solutions/tree/master/0002-add-two-numbers) |
 | [0050-powx-n](https://github.com/shravyavodnala2006/leetcode-solutions/tree/master/0050-powx-n) |
 ## Divide and Conquer
 |  |
@@ -93,5 +95,6 @@ My LeetCode practice solutions
 ## Linked List
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/shravyavodnala2006/leetcode-solutions/tree/master/0002-add-two-numbers) |
 | [0237-delete-node-in-a-linked-list](https://github.com/shravyavodnala2006/leetcode-solutions/tree/master/0237-delete-node-in-a-linked-list) |
 <!---LeetCode Topics End-->
