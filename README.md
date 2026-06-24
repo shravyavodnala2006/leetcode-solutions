@@ -18,6 +18,7 @@ My LeetCode practice solutions
 | [0485-max-consecutive-ones](https://github.com/shravyavodnala2006/leetcode-solutions/tree/master/0485-max-consecutive-ones) |
 | [0560-subarray-sum-equals-k](https://github.com/shravyavodnala2006/leetcode-solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0645-set-mismatch](https://github.com/shravyavodnala2006/leetcode-solutions/tree/master/0645-set-mismatch) |
+| [1019-next-greater-node-in-linked-list](https://github.com/shravyavodnala2006/leetcode-solutions/tree/master/1019-next-greater-node-in-linked-list) |
 ## Hash Table
 |  |
 | ------- |
@@ -49,10 +50,12 @@ My LeetCode practice solutions
 | ------- |
 | [0042-trapping-rain-water](https://github.com/shravyavodnala2006/leetcode-solutions/tree/master/0042-trapping-rain-water) |
 | [0445-add-two-numbers-ii](https://github.com/shravyavodnala2006/leetcode-solutions/tree/master/0445-add-two-numbers-ii) |
+| [1019-next-greater-node-in-linked-list](https://github.com/shravyavodnala2006/leetcode-solutions/tree/master/1019-next-greater-node-in-linked-list) |
 ## Monotonic Stack
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/shravyavodnala2006/leetcode-solutions/tree/master/0042-trapping-rain-water) |
+| [1019-next-greater-node-in-linked-list](https://github.com/shravyavodnala2006/leetcode-solutions/tree/master/1019-next-greater-node-in-linked-list) |
 ## Math
 |  |
 | ------- |
@@ -123,6 +126,7 @@ My LeetCode practice solutions
 | [0237-delete-node-in-a-linked-list](https://github.com/shravyavodnala2006/leetcode-solutions/tree/master/0237-delete-node-in-a-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/shravyavodnala2006/leetcode-solutions/tree/master/0328-odd-even-linked-list) |
 | [0445-add-two-numbers-ii](https://github.com/shravyavodnala2006/leetcode-solutions/tree/master/0445-add-two-numbers-ii) |
+| [1019-next-greater-node-in-linked-list](https://github.com/shravyavodnala2006/leetcode-solutions/tree/master/1019-next-greater-node-in-linked-list) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/shravyavodnala2006/leetcode-solutions/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 | [1721-swapping-nodes-in-a-linked-list](https://github.com/shravyavodnala2006/leetcode-solutions/tree/master/1721-swapping-nodes-in-a-linked-list) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/shravyavodnala2006/leetcode-solutions/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
