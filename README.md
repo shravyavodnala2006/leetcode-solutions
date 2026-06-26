@@ -152,6 +152,7 @@ My LeetCode practice solutions
 | [1721-swapping-nodes-in-a-linked-list](https://github.com/shravyavodnala2006/leetcode-solutions/tree/master/1721-swapping-nodes-in-a-linked-list) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/shravyavodnala2006/leetcode-solutions/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/shravyavodnala2006/leetcode-solutions/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
+| [2181-merge-nodes-in-between-zeros](https://github.com/shravyavodnala2006/leetcode-solutions/tree/master/2181-merge-nodes-in-between-zeros) |
 | [2487-remove-nodes-from-linked-list](https://github.com/shravyavodnala2006/leetcode-solutions/tree/master/2487-remove-nodes-from-linked-list) |
 | [2816-double-a-number-represented-as-a-linked-list](https://github.com/shravyavodnala2006/leetcode-solutions/tree/master/2816-double-a-number-represented-as-a-linked-list) |
 ## String
@@ -159,4 +160,8 @@ My LeetCode practice solutions
 | ------- |
 | [0242-valid-anagram](https://github.com/shravyavodnala2006/leetcode-solutions/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/shravyavodnala2006/leetcode-solutions/tree/master/0344-reverse-string) |
+## Simulation
+|  |
+| ------- |
+| [2181-merge-nodes-in-between-zeros](https://github.com/shravyavodnala2006/leetcode-solutions/tree/master/2181-merge-nodes-in-between-zeros) |
 <!---LeetCode Topics End-->
