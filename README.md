@@ -53,11 +53,13 @@ My LeetCode practice solutions
 | [0042-trapping-rain-water](https://github.com/shravyavodnala2006/leetcode-solutions/tree/master/0042-trapping-rain-water) |
 | [0445-add-two-numbers-ii](https://github.com/shravyavodnala2006/leetcode-solutions/tree/master/0445-add-two-numbers-ii) |
 | [1019-next-greater-node-in-linked-list](https://github.com/shravyavodnala2006/leetcode-solutions/tree/master/1019-next-greater-node-in-linked-list) |
+| [2487-remove-nodes-from-linked-list](https://github.com/shravyavodnala2006/leetcode-solutions/tree/master/2487-remove-nodes-from-linked-list) |
 ## Monotonic Stack
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/shravyavodnala2006/leetcode-solutions/tree/master/0042-trapping-rain-water) |
 | [1019-next-greater-node-in-linked-list](https://github.com/shravyavodnala2006/leetcode-solutions/tree/master/1019-next-greater-node-in-linked-list) |
+| [2487-remove-nodes-from-linked-list](https://github.com/shravyavodnala2006/leetcode-solutions/tree/master/2487-remove-nodes-from-linked-list) |
 ## Math
 |  |
 | ------- |
@@ -100,6 +102,7 @@ My LeetCode practice solutions
 | [0050-powx-n](https://github.com/shravyavodnala2006/leetcode-solutions/tree/master/0050-powx-n) |
 | [0203-remove-linked-list-elements](https://github.com/shravyavodnala2006/leetcode-solutions/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/shravyavodnala2006/leetcode-solutions/tree/master/0206-reverse-linked-list) |
+| [2487-remove-nodes-from-linked-list](https://github.com/shravyavodnala2006/leetcode-solutions/tree/master/2487-remove-nodes-from-linked-list) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -135,6 +138,7 @@ My LeetCode practice solutions
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/shravyavodnala2006/leetcode-solutions/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 | [1721-swapping-nodes-in-a-linked-list](https://github.com/shravyavodnala2006/leetcode-solutions/tree/master/1721-swapping-nodes-in-a-linked-list) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/shravyavodnala2006/leetcode-solutions/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
+| [2487-remove-nodes-from-linked-list](https://github.com/shravyavodnala2006/leetcode-solutions/tree/master/2487-remove-nodes-from-linked-list) |
 ## String
 |  |
 | ------- |
