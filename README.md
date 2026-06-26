@@ -56,6 +56,7 @@ My LeetCode practice solutions
 | [0445-add-two-numbers-ii](https://github.com/shravyavodnala2006/leetcode-solutions/tree/master/0445-add-two-numbers-ii) |
 | [1019-next-greater-node-in-linked-list](https://github.com/shravyavodnala2006/leetcode-solutions/tree/master/1019-next-greater-node-in-linked-list) |
 | [2487-remove-nodes-from-linked-list](https://github.com/shravyavodnala2006/leetcode-solutions/tree/master/2487-remove-nodes-from-linked-list) |
+| [2816-double-a-number-represented-as-a-linked-list](https://github.com/shravyavodnala2006/leetcode-solutions/tree/master/2816-double-a-number-represented-as-a-linked-list) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -72,6 +73,7 @@ My LeetCode practice solutions
 | [0204-count-primes](https://github.com/shravyavodnala2006/leetcode-solutions/tree/master/0204-count-primes) |
 | [0445-add-two-numbers-ii](https://github.com/shravyavodnala2006/leetcode-solutions/tree/master/0445-add-two-numbers-ii) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/shravyavodnala2006/leetcode-solutions/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
+| [2816-double-a-number-represented-as-a-linked-list](https://github.com/shravyavodnala2006/leetcode-solutions/tree/master/2816-double-a-number-represented-as-a-linked-list) |
 ## Sorting
 |  |
 | ------- |
@@ -142,6 +144,7 @@ My LeetCode practice solutions
 | [1721-swapping-nodes-in-a-linked-list](https://github.com/shravyavodnala2006/leetcode-solutions/tree/master/1721-swapping-nodes-in-a-linked-list) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/shravyavodnala2006/leetcode-solutions/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2487-remove-nodes-from-linked-list](https://github.com/shravyavodnala2006/leetcode-solutions/tree/master/2487-remove-nodes-from-linked-list) |
+| [2816-double-a-number-represented-as-a-linked-list](https://github.com/shravyavodnala2006/leetcode-solutions/tree/master/2816-double-a-number-represented-as-a-linked-list) |
 ## String
 |  |
 | ------- |
