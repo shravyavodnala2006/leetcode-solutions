@@ -19,6 +19,7 @@ My LeetCode practice solutions
 | [0560-subarray-sum-equals-k](https://github.com/shravyavodnala2006/leetcode-solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0645-set-mismatch](https://github.com/shravyavodnala2006/leetcode-solutions/tree/master/0645-set-mismatch) |
 | [1019-next-greater-node-in-linked-list](https://github.com/shravyavodnala2006/leetcode-solutions/tree/master/1019-next-greater-node-in-linked-list) |
+| [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/shravyavodnala2006/leetcode-solutions/tree/master/3217-delete-nodes-from-linked-list-present-in-array) |
 ## Hash Table
 |  |
 | ------- |
@@ -29,6 +30,7 @@ My LeetCode practice solutions
 | [0242-valid-anagram](https://github.com/shravyavodnala2006/leetcode-solutions/tree/master/0242-valid-anagram) |
 | [0560-subarray-sum-equals-k](https://github.com/shravyavodnala2006/leetcode-solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0645-set-mismatch](https://github.com/shravyavodnala2006/leetcode-solutions/tree/master/0645-set-mismatch) |
+| [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/shravyavodnala2006/leetcode-solutions/tree/master/3217-delete-nodes-from-linked-list-present-in-array) |
 ## Two Pointers
 |  |
 | ------- |
@@ -157,6 +159,7 @@ My LeetCode practice solutions
 | [2181-merge-nodes-in-between-zeros](https://github.com/shravyavodnala2006/leetcode-solutions/tree/master/2181-merge-nodes-in-between-zeros) |
 | [2487-remove-nodes-from-linked-list](https://github.com/shravyavodnala2006/leetcode-solutions/tree/master/2487-remove-nodes-from-linked-list) |
 | [2816-double-a-number-represented-as-a-linked-list](https://github.com/shravyavodnala2006/leetcode-solutions/tree/master/2816-double-a-number-represented-as-a-linked-list) |
+| [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/shravyavodnala2006/leetcode-solutions/tree/master/3217-delete-nodes-from-linked-list-present-in-array) |
 ## String
 |  |
 | ------- |
