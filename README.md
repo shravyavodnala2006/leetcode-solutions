@@ -115,6 +115,7 @@ My LeetCode practice solutions
 ## Divide and Conquer
 |  |
 | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/shravyavodnala2006/leetcode-solutions/tree/master/0023-merge-k-sorted-lists) |
 | [0053-maximum-subarray](https://github.com/shravyavodnala2006/leetcode-solutions/tree/master/0053-maximum-subarray) |
 | [0191-number-of-1-bits](https://github.com/shravyavodnala2006/leetcode-solutions/tree/master/0191-number-of-1-bits) |
 ## Enumeration
@@ -131,6 +132,7 @@ My LeetCode practice solutions
 | [0002-add-two-numbers](https://github.com/shravyavodnala2006/leetcode-solutions/tree/master/0002-add-two-numbers) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/shravyavodnala2006/leetcode-solutions/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0021-merge-two-sorted-lists](https://github.com/shravyavodnala2006/leetcode-solutions/tree/master/0021-merge-two-sorted-lists) |
+| [0023-merge-k-sorted-lists](https://github.com/shravyavodnala2006/leetcode-solutions/tree/master/0023-merge-k-sorted-lists) |
 | [0024-swap-nodes-in-pairs](https://github.com/shravyavodnala2006/leetcode-solutions/tree/master/0024-swap-nodes-in-pairs) |
 | [0025-reverse-nodes-in-k-group](https://github.com/shravyavodnala2006/leetcode-solutions/tree/master/0025-reverse-nodes-in-k-group) |
 | [0061-rotate-list](https://github.com/shravyavodnala2006/leetcode-solutions/tree/master/0061-rotate-list) |
@@ -164,4 +166,12 @@ My LeetCode practice solutions
 |  |
 | ------- |
 | [2181-merge-nodes-in-between-zeros](https://github.com/shravyavodnala2006/leetcode-solutions/tree/master/2181-merge-nodes-in-between-zeros) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0023-merge-k-sorted-lists](https://github.com/shravyavodnala2006/leetcode-solutions/tree/master/0023-merge-k-sorted-lists) |
+## Merge Sort
+|  |
+| ------- |
+| [0023-merge-k-sorted-lists](https://github.com/shravyavodnala2006/leetcode-solutions/tree/master/0023-merge-k-sorted-lists) |
 <!---LeetCode Topics End-->
