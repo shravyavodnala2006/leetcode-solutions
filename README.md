@@ -38,6 +38,7 @@ My LeetCode practice solutions
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/shravyavodnala2006/leetcode-solutions/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0027-remove-element](https://github.com/shravyavodnala2006/leetcode-solutions/tree/master/0027-remove-element) |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/shravyavodnala2006/leetcode-solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0042-trapping-rain-water](https://github.com/shravyavodnala2006/leetcode-solutions/tree/master/0042-trapping-rain-water) |
 | [0061-rotate-list](https://github.com/shravyavodnala2006/leetcode-solutions/tree/master/0061-rotate-list) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/shravyavodnala2006/leetcode-solutions/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
@@ -167,6 +168,7 @@ My LeetCode practice solutions
 ## String
 |  |
 | ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/shravyavodnala2006/leetcode-solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0242-valid-anagram](https://github.com/shravyavodnala2006/leetcode-solutions/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/shravyavodnala2006/leetcode-solutions/tree/master/0344-reverse-string) |
 ## Simulation
@@ -181,4 +183,8 @@ My LeetCode practice solutions
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/shravyavodnala2006/leetcode-solutions/tree/master/0023-merge-k-sorted-lists) |
+## String Matching
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/shravyavodnala2006/leetcode-solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 <!---LeetCode Topics End-->
