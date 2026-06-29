@@ -7,6 +7,7 @@ My LeetCode practice solutions
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/shravyavodnala2006/leetcode-solutions/tree/master/0001-two-sum) |
+| [0027-remove-element](https://github.com/shravyavodnala2006/leetcode-solutions/tree/master/0027-remove-element) |
 | [0042-trapping-rain-water](https://github.com/shravyavodnala2006/leetcode-solutions/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/shravyavodnala2006/leetcode-solutions/tree/master/0053-maximum-subarray) |
 | [0078-subsets](https://github.com/shravyavodnala2006/leetcode-solutions/tree/master/0078-subsets) |
@@ -36,6 +37,7 @@ My LeetCode practice solutions
 |  |
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/shravyavodnala2006/leetcode-solutions/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0027-remove-element](https://github.com/shravyavodnala2006/leetcode-solutions/tree/master/0027-remove-element) |
 | [0042-trapping-rain-water](https://github.com/shravyavodnala2006/leetcode-solutions/tree/master/0042-trapping-rain-water) |
 | [0061-rotate-list](https://github.com/shravyavodnala2006/leetcode-solutions/tree/master/0061-rotate-list) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/shravyavodnala2006/leetcode-solutions/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
