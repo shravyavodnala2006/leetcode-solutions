@@ -16,6 +16,7 @@ My LeetCode practice solutions
 | [0137-single-number-ii](https://github.com/shravyavodnala2006/leetcode-solutions/tree/master/0137-single-number-ii) |
 | [0189-rotate-array](https://github.com/shravyavodnala2006/leetcode-solutions/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/shravyavodnala2006/leetcode-solutions/tree/master/0204-count-primes) |
+| [0209-minimum-size-subarray-sum](https://github.com/shravyavodnala2006/leetcode-solutions/tree/master/0209-minimum-size-subarray-sum) |
 | [0283-move-zeroes](https://github.com/shravyavodnala2006/leetcode-solutions/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/shravyavodnala2006/leetcode-solutions/tree/master/0485-max-consecutive-ones) |
 | [0560-subarray-sum-equals-k](https://github.com/shravyavodnala2006/leetcode-solutions/tree/master/0560-subarray-sum-equals-k) |
@@ -107,6 +108,7 @@ My LeetCode practice solutions
 ## Prefix Sum
 |  |
 | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/shravyavodnala2006/leetcode-solutions/tree/master/0209-minimum-size-subarray-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/shravyavodnala2006/leetcode-solutions/tree/master/0560-subarray-sum-equals-k) |
 ## Recursion
 |  |
@@ -187,4 +189,12 @@ My LeetCode practice solutions
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/shravyavodnala2006/leetcode-solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Binary Search
+|  |
+| ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/shravyavodnala2006/leetcode-solutions/tree/master/0209-minimum-size-subarray-sum) |
+## Sliding Window
+|  |
+| ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/shravyavodnala2006/leetcode-solutions/tree/master/0209-minimum-size-subarray-sum) |
 <!---LeetCode Topics End-->
