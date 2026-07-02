@@ -66,6 +66,7 @@ My LeetCode practice solutions
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/shravyavodnala2006/leetcode-solutions/tree/master/0042-trapping-rain-water) |
+| [0094-binary-tree-inorder-traversal](https://github.com/shravyavodnala2006/leetcode-solutions/tree/master/0094-binary-tree-inorder-traversal) |
 | [0445-add-two-numbers-ii](https://github.com/shravyavodnala2006/leetcode-solutions/tree/master/0445-add-two-numbers-ii) |
 | [1019-next-greater-node-in-linked-list](https://github.com/shravyavodnala2006/leetcode-solutions/tree/master/1019-next-greater-node-in-linked-list) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/shravyavodnala2006/leetcode-solutions/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
@@ -201,4 +202,16 @@ My LeetCode practice solutions
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/shravyavodnala2006/leetcode-solutions/tree/master/0209-minimum-size-subarray-sum) |
 | [1004-max-consecutive-ones-iii](https://github.com/shravyavodnala2006/leetcode-solutions/tree/master/1004-max-consecutive-ones-iii) |
+## Tree
+|  |
+| ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/shravyavodnala2006/leetcode-solutions/tree/master/0094-binary-tree-inorder-traversal) |
+## Depth-First Search
+|  |
+| ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/shravyavodnala2006/leetcode-solutions/tree/master/0094-binary-tree-inorder-traversal) |
+## Binary Tree
+|  |
+| ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/shravyavodnala2006/leetcode-solutions/tree/master/0094-binary-tree-inorder-traversal) |
 <!---LeetCode Topics End-->
