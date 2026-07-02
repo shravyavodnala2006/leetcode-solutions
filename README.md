@@ -32,6 +32,7 @@ My LeetCode practice solutions
 | [0142-linked-list-cycle-ii](https://github.com/shravyavodnala2006/leetcode-solutions/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/shravyavodnala2006/leetcode-solutions/tree/master/0160-intersection-of-two-linked-lists) |
 | [0242-valid-anagram](https://github.com/shravyavodnala2006/leetcode-solutions/tree/master/0242-valid-anagram) |
+| [0290-word-pattern](https://github.com/shravyavodnala2006/leetcode-solutions/tree/master/0290-word-pattern) |
 | [0560-subarray-sum-equals-k](https://github.com/shravyavodnala2006/leetcode-solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0645-set-mismatch](https://github.com/shravyavodnala2006/leetcode-solutions/tree/master/0645-set-mismatch) |
 | [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/shravyavodnala2006/leetcode-solutions/tree/master/3217-delete-nodes-from-linked-list-present-in-array) |
@@ -178,6 +179,7 @@ My LeetCode practice solutions
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/shravyavodnala2006/leetcode-solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0242-valid-anagram](https://github.com/shravyavodnala2006/leetcode-solutions/tree/master/0242-valid-anagram) |
+| [0290-word-pattern](https://github.com/shravyavodnala2006/leetcode-solutions/tree/master/0290-word-pattern) |
 | [0344-reverse-string](https://github.com/shravyavodnala2006/leetcode-solutions/tree/master/0344-reverse-string) |
 ## Simulation
 |  |
