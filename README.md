@@ -107,6 +107,7 @@ My LeetCode practice solutions
 | [0078-subsets](https://github.com/shravyavodnala2006/leetcode-solutions/tree/master/0078-subsets) |
 | [0137-single-number-ii](https://github.com/shravyavodnala2006/leetcode-solutions/tree/master/0137-single-number-ii) |
 | [0191-number-of-1-bits](https://github.com/shravyavodnala2006/leetcode-solutions/tree/master/0191-number-of-1-bits) |
+| [0222-count-complete-tree-nodes](https://github.com/shravyavodnala2006/leetcode-solutions/tree/master/0222-count-complete-tree-nodes) |
 | [0338-counting-bits](https://github.com/shravyavodnala2006/leetcode-solutions/tree/master/0338-counting-bits) |
 | [0645-set-mismatch](https://github.com/shravyavodnala2006/leetcode-solutions/tree/master/0645-set-mismatch) |
 ## Prefix Sum
@@ -198,6 +199,7 @@ My LeetCode practice solutions
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/shravyavodnala2006/leetcode-solutions/tree/master/0209-minimum-size-subarray-sum) |
+| [0222-count-complete-tree-nodes](https://github.com/shravyavodnala2006/leetcode-solutions/tree/master/0222-count-complete-tree-nodes) |
 | [1004-max-consecutive-ones-iii](https://github.com/shravyavodnala2006/leetcode-solutions/tree/master/1004-max-consecutive-ones-iii) |
 ## Sliding Window
 |  |
@@ -210,6 +212,7 @@ My LeetCode practice solutions
 | [0094-binary-tree-inorder-traversal](https://github.com/shravyavodnala2006/leetcode-solutions/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/shravyavodnala2006/leetcode-solutions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/shravyavodnala2006/leetcode-solutions/tree/master/0145-binary-tree-postorder-traversal) |
+| [0222-count-complete-tree-nodes](https://github.com/shravyavodnala2006/leetcode-solutions/tree/master/0222-count-complete-tree-nodes) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -222,4 +225,5 @@ My LeetCode practice solutions
 | [0094-binary-tree-inorder-traversal](https://github.com/shravyavodnala2006/leetcode-solutions/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/shravyavodnala2006/leetcode-solutions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/shravyavodnala2006/leetcode-solutions/tree/master/0145-binary-tree-postorder-traversal) |
+| [0222-count-complete-tree-nodes](https://github.com/shravyavodnala2006/leetcode-solutions/tree/master/0222-count-complete-tree-nodes) |
 <!---LeetCode Topics End-->
