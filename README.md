@@ -218,6 +218,7 @@ My LeetCode practice solutions
 | [0144-binary-tree-preorder-traversal](https://github.com/shravyavodnala2006/leetcode-solutions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/shravyavodnala2006/leetcode-solutions/tree/master/0145-binary-tree-postorder-traversal) |
 | [0222-count-complete-tree-nodes](https://github.com/shravyavodnala2006/leetcode-solutions/tree/master/0222-count-complete-tree-nodes) |
+| [0450-delete-node-in-a-bst](https://github.com/shravyavodnala2006/leetcode-solutions/tree/master/0450-delete-node-in-a-bst) |
 | [0669-trim-a-binary-search-tree](https://github.com/shravyavodnala2006/leetcode-solutions/tree/master/0669-trim-a-binary-search-tree) |
 ## Depth-First Search
 |  |
@@ -236,6 +237,7 @@ My LeetCode practice solutions
 | [0144-binary-tree-preorder-traversal](https://github.com/shravyavodnala2006/leetcode-solutions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/shravyavodnala2006/leetcode-solutions/tree/master/0145-binary-tree-postorder-traversal) |
 | [0222-count-complete-tree-nodes](https://github.com/shravyavodnala2006/leetcode-solutions/tree/master/0222-count-complete-tree-nodes) |
+| [0450-delete-node-in-a-bst](https://github.com/shravyavodnala2006/leetcode-solutions/tree/master/0450-delete-node-in-a-bst) |
 | [0669-trim-a-binary-search-tree](https://github.com/shravyavodnala2006/leetcode-solutions/tree/master/0669-trim-a-binary-search-tree) |
 ## Breadth-First Search
 |  |
@@ -245,5 +247,6 @@ My LeetCode practice solutions
 ## Binary Search Tree
 |  |
 | ------- |
+| [0450-delete-node-in-a-bst](https://github.com/shravyavodnala2006/leetcode-solutions/tree/master/0450-delete-node-in-a-bst) |
 | [0669-trim-a-binary-search-tree](https://github.com/shravyavodnala2006/leetcode-solutions/tree/master/0669-trim-a-binary-search-tree) |
 <!---LeetCode Topics End-->
