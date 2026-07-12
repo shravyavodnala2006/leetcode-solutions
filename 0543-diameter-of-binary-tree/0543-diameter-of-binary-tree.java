@@ -27,5 +27,4 @@ class Solution {
         maxi = Math.max(maxi, lh + rh);
         return 1 + Math.max(lh, rh);
     }
-   
 }
