@@ -182,6 +182,7 @@ My LeetCode practice solutions
 | [0242-valid-anagram](https://github.com/shravyavodnala2006/leetcode-solutions/tree/master/0242-valid-anagram) |
 | [0290-word-pattern](https://github.com/shravyavodnala2006/leetcode-solutions/tree/master/0290-word-pattern) |
 | [0344-reverse-string](https://github.com/shravyavodnala2006/leetcode-solutions/tree/master/0344-reverse-string) |
+| [0709-to-lower-case](https://github.com/shravyavodnala2006/leetcode-solutions/tree/master/0709-to-lower-case) |
 ## Simulation
 |  |
 | ------- |
