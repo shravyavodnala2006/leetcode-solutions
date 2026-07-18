@@ -229,6 +229,7 @@ My LeetCode practice solutions
 | [0515-find-largest-value-in-each-tree-row](https://github.com/shravyavodnala2006/leetcode-solutions/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0543-diameter-of-binary-tree](https://github.com/shravyavodnala2006/leetcode-solutions/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/shravyavodnala2006/leetcode-solutions/tree/master/0572-subtree-of-another-tree) |
+| [0637-average-of-levels-in-binary-tree](https://github.com/shravyavodnala2006/leetcode-solutions/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0669-trim-a-binary-search-tree](https://github.com/shravyavodnala2006/leetcode-solutions/tree/master/0669-trim-a-binary-search-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/shravyavodnala2006/leetcode-solutions/tree/master/0700-search-in-a-binary-search-tree) |
 ## Depth-First Search
@@ -245,6 +246,7 @@ My LeetCode practice solutions
 | [0515-find-largest-value-in-each-tree-row](https://github.com/shravyavodnala2006/leetcode-solutions/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0543-diameter-of-binary-tree](https://github.com/shravyavodnala2006/leetcode-solutions/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/shravyavodnala2006/leetcode-solutions/tree/master/0572-subtree-of-another-tree) |
+| [0637-average-of-levels-in-binary-tree](https://github.com/shravyavodnala2006/leetcode-solutions/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0669-trim-a-binary-search-tree](https://github.com/shravyavodnala2006/leetcode-solutions/tree/master/0669-trim-a-binary-search-tree) |
 ## Binary Tree
 |  |
@@ -264,6 +266,7 @@ My LeetCode practice solutions
 | [0515-find-largest-value-in-each-tree-row](https://github.com/shravyavodnala2006/leetcode-solutions/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0543-diameter-of-binary-tree](https://github.com/shravyavodnala2006/leetcode-solutions/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/shravyavodnala2006/leetcode-solutions/tree/master/0572-subtree-of-another-tree) |
+| [0637-average-of-levels-in-binary-tree](https://github.com/shravyavodnala2006/leetcode-solutions/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0669-trim-a-binary-search-tree](https://github.com/shravyavodnala2006/leetcode-solutions/tree/master/0669-trim-a-binary-search-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/shravyavodnala2006/leetcode-solutions/tree/master/0700-search-in-a-binary-search-tree) |
 ## Breadth-First Search
@@ -275,6 +278,7 @@ My LeetCode practice solutions
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/shravyavodnala2006/leetcode-solutions/tree/master/0107-binary-tree-level-order-traversal-ii) |
 | [0199-binary-tree-right-side-view](https://github.com/shravyavodnala2006/leetcode-solutions/tree/master/0199-binary-tree-right-side-view) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/shravyavodnala2006/leetcode-solutions/tree/master/0515-find-largest-value-in-each-tree-row) |
+| [0637-average-of-levels-in-binary-tree](https://github.com/shravyavodnala2006/leetcode-solutions/tree/master/0637-average-of-levels-in-binary-tree) |
 ## Binary Search Tree
 |  |
 | ------- |
