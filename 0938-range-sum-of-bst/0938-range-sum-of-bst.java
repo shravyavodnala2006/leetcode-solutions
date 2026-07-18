@@ -15,19 +15,13 @@
  */
 class Solution {  
     public int rangeSumBST(TreeNode root, int low, int high) {
-        int sum=0;
-        if(root==null) return sum;
-        Queue<TreeNode>q=new LinkedList<>();
-        q.offer(root);     
-        while(!q.isEmpty()){
-            int n=q.size();
-            for(int i=0;i<n;i++){
-                TreeNode out=q.poll();
-                if(low<=out.val && out.val<=high) sum+=out.val;
-                if(out.left!=null)q.offer(out.left);
-                if(out.right!=null)q.offer(out.right);
-            }        
-        }       
-        return sum;
+        if (root == null) return 0;
+        if (root.val < low)
+            return rangeSumBST(root.right, low, high);
+        if (root.val > high)
+            return rangeSumBST(root.left, low, high);
+        return root.val
+             + rangeSumBST(root.left, low, high)
+             + rangeSumBST(root.right, low, high);
     }
 }
