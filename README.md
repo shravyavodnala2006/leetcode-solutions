@@ -238,6 +238,7 @@ My LeetCode practice solutions
 | [0145-binary-tree-postorder-traversal](https://github.com/shravyavodnala2006/leetcode-solutions/tree/master/0145-binary-tree-postorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/shravyavodnala2006/leetcode-solutions/tree/master/0199-binary-tree-right-side-view) |
 | [0222-count-complete-tree-nodes](https://github.com/shravyavodnala2006/leetcode-solutions/tree/master/0222-count-complete-tree-nodes) |
+| [0404-sum-of-left-leaves](https://github.com/shravyavodnala2006/leetcode-solutions/tree/master/0404-sum-of-left-leaves) |
 | [0450-delete-node-in-a-bst](https://github.com/shravyavodnala2006/leetcode-solutions/tree/master/0450-delete-node-in-a-bst) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/shravyavodnala2006/leetcode-solutions/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0543-diameter-of-binary-tree](https://github.com/shravyavodnala2006/leetcode-solutions/tree/master/0543-diameter-of-binary-tree) |
@@ -258,6 +259,7 @@ My LeetCode practice solutions
 | [0144-binary-tree-preorder-traversal](https://github.com/shravyavodnala2006/leetcode-solutions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/shravyavodnala2006/leetcode-solutions/tree/master/0145-binary-tree-postorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/shravyavodnala2006/leetcode-solutions/tree/master/0199-binary-tree-right-side-view) |
+| [0404-sum-of-left-leaves](https://github.com/shravyavodnala2006/leetcode-solutions/tree/master/0404-sum-of-left-leaves) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/shravyavodnala2006/leetcode-solutions/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0543-diameter-of-binary-tree](https://github.com/shravyavodnala2006/leetcode-solutions/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/shravyavodnala2006/leetcode-solutions/tree/master/0572-subtree-of-another-tree) |
@@ -279,6 +281,7 @@ My LeetCode practice solutions
 | [0145-binary-tree-postorder-traversal](https://github.com/shravyavodnala2006/leetcode-solutions/tree/master/0145-binary-tree-postorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/shravyavodnala2006/leetcode-solutions/tree/master/0199-binary-tree-right-side-view) |
 | [0222-count-complete-tree-nodes](https://github.com/shravyavodnala2006/leetcode-solutions/tree/master/0222-count-complete-tree-nodes) |
+| [0404-sum-of-left-leaves](https://github.com/shravyavodnala2006/leetcode-solutions/tree/master/0404-sum-of-left-leaves) |
 | [0450-delete-node-in-a-bst](https://github.com/shravyavodnala2006/leetcode-solutions/tree/master/0450-delete-node-in-a-bst) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/shravyavodnala2006/leetcode-solutions/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0543-diameter-of-binary-tree](https://github.com/shravyavodnala2006/leetcode-solutions/tree/master/0543-diameter-of-binary-tree) |
@@ -296,6 +299,7 @@ My LeetCode practice solutions
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/shravyavodnala2006/leetcode-solutions/tree/master/0107-binary-tree-level-order-traversal-ii) |
 | [0112-path-sum](https://github.com/shravyavodnala2006/leetcode-solutions/tree/master/0112-path-sum) |
 | [0199-binary-tree-right-side-view](https://github.com/shravyavodnala2006/leetcode-solutions/tree/master/0199-binary-tree-right-side-view) |
+| [0404-sum-of-left-leaves](https://github.com/shravyavodnala2006/leetcode-solutions/tree/master/0404-sum-of-left-leaves) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/shravyavodnala2006/leetcode-solutions/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/shravyavodnala2006/leetcode-solutions/tree/master/0637-average-of-levels-in-binary-tree) |
 ## Binary Search Tree
