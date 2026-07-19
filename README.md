@@ -35,6 +35,7 @@ My LeetCode practice solutions
 | [0290-word-pattern](https://github.com/shravyavodnala2006/leetcode-solutions/tree/master/0290-word-pattern) |
 | [0560-subarray-sum-equals-k](https://github.com/shravyavodnala2006/leetcode-solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0645-set-mismatch](https://github.com/shravyavodnala2006/leetcode-solutions/tree/master/0645-set-mismatch) |
+| [1876-substrings-of-size-three-with-distinct-characters](https://github.com/shravyavodnala2006/leetcode-solutions/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/shravyavodnala2006/leetcode-solutions/tree/master/3217-delete-nodes-from-linked-list-present-in-array) |
 ## Two Pointers
 |  |
@@ -183,6 +184,7 @@ My LeetCode practice solutions
 | [0290-word-pattern](https://github.com/shravyavodnala2006/leetcode-solutions/tree/master/0290-word-pattern) |
 | [0344-reverse-string](https://github.com/shravyavodnala2006/leetcode-solutions/tree/master/0344-reverse-string) |
 | [0709-to-lower-case](https://github.com/shravyavodnala2006/leetcode-solutions/tree/master/0709-to-lower-case) |
+| [1876-substrings-of-size-three-with-distinct-characters](https://github.com/shravyavodnala2006/leetcode-solutions/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 ## Simulation
 |  |
 | ------- |
@@ -211,6 +213,7 @@ My LeetCode practice solutions
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/shravyavodnala2006/leetcode-solutions/tree/master/0209-minimum-size-subarray-sum) |
 | [1004-max-consecutive-ones-iii](https://github.com/shravyavodnala2006/leetcode-solutions/tree/master/1004-max-consecutive-ones-iii) |
+| [1876-substrings-of-size-three-with-distinct-characters](https://github.com/shravyavodnala2006/leetcode-solutions/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 ## Tree
 |  |
 | ------- |
@@ -294,4 +297,8 @@ My LeetCode practice solutions
 |  |
 | ------- |
 | [0572-subtree-of-another-tree](https://github.com/shravyavodnala2006/leetcode-solutions/tree/master/0572-subtree-of-another-tree) |
+## Counting
+|  |
+| ------- |
+| [1876-substrings-of-size-three-with-distinct-characters](https://github.com/shravyavodnala2006/leetcode-solutions/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 <!---LeetCode Topics End-->
