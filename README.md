@@ -24,6 +24,7 @@ My LeetCode practice solutions
 | [1004-max-consecutive-ones-iii](https://github.com/shravyavodnala2006/leetcode-solutions/tree/master/1004-max-consecutive-ones-iii) |
 | [1019-next-greater-node-in-linked-list](https://github.com/shravyavodnala2006/leetcode-solutions/tree/master/1019-next-greater-node-in-linked-list) |
 | [1089-duplicate-zeros](https://github.com/shravyavodnala2006/leetcode-solutions/tree/master/1089-duplicate-zeros) |
+| [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/shravyavodnala2006/leetcode-solutions/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/shravyavodnala2006/leetcode-solutions/tree/master/3217-delete-nodes-from-linked-list-present-in-array) |
 ## Hash Table
 |  |
@@ -60,6 +61,7 @@ My LeetCode practice solutions
 | [1721-swapping-nodes-in-a-linked-list](https://github.com/shravyavodnala2006/leetcode-solutions/tree/master/1721-swapping-nodes-in-a-linked-list) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/shravyavodnala2006/leetcode-solutions/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/shravyavodnala2006/leetcode-solutions/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
+| [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/shravyavodnala2006/leetcode-solutions/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -102,6 +104,7 @@ My LeetCode practice solutions
 | [0088-merge-sorted-array](https://github.com/shravyavodnala2006/leetcode-solutions/tree/master/0088-merge-sorted-array) |
 | [0242-valid-anagram](https://github.com/shravyavodnala2006/leetcode-solutions/tree/master/0242-valid-anagram) |
 | [0645-set-mismatch](https://github.com/shravyavodnala2006/leetcode-solutions/tree/master/0645-set-mismatch) |
+| [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/shravyavodnala2006/leetcode-solutions/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 ## Backtracking
 |  |
 | ------- |
@@ -212,6 +215,7 @@ My LeetCode practice solutions
 | [0209-minimum-size-subarray-sum](https://github.com/shravyavodnala2006/leetcode-solutions/tree/master/0209-minimum-size-subarray-sum) |
 | [0222-count-complete-tree-nodes](https://github.com/shravyavodnala2006/leetcode-solutions/tree/master/0222-count-complete-tree-nodes) |
 | [1004-max-consecutive-ones-iii](https://github.com/shravyavodnala2006/leetcode-solutions/tree/master/1004-max-consecutive-ones-iii) |
+| [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/shravyavodnala2006/leetcode-solutions/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 ## Sliding Window
 |  |
 | ------- |
