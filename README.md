@@ -118,6 +118,7 @@ My LeetCode practice solutions
 | [0222-count-complete-tree-nodes](https://github.com/shravyavodnala2006/leetcode-solutions/tree/master/0222-count-complete-tree-nodes) |
 | [0338-counting-bits](https://github.com/shravyavodnala2006/leetcode-solutions/tree/master/0338-counting-bits) |
 | [0645-set-mismatch](https://github.com/shravyavodnala2006/leetcode-solutions/tree/master/0645-set-mismatch) |
+| [0693-binary-number-with-alternating-bits](https://github.com/shravyavodnala2006/leetcode-solutions/tree/master/0693-binary-number-with-alternating-bits) |
 ## Prefix Sum
 |  |
 | ------- |
