@@ -24,6 +24,7 @@ My LeetCode practice solutions
 | [1004-max-consecutive-ones-iii](https://github.com/shravyavodnala2006/leetcode-solutions/tree/master/1004-max-consecutive-ones-iii) |
 | [1019-next-greater-node-in-linked-list](https://github.com/shravyavodnala2006/leetcode-solutions/tree/master/1019-next-greater-node-in-linked-list) |
 | [1089-duplicate-zeros](https://github.com/shravyavodnala2006/leetcode-solutions/tree/master/1089-duplicate-zeros) |
+| [1863-sum-of-all-subset-xor-totals](https://github.com/shravyavodnala2006/leetcode-solutions/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/shravyavodnala2006/leetcode-solutions/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/shravyavodnala2006/leetcode-solutions/tree/master/3217-delete-nodes-from-linked-list-present-in-array) |
 ## Hash Table
@@ -97,6 +98,7 @@ My LeetCode practice solutions
 | [0204-count-primes](https://github.com/shravyavodnala2006/leetcode-solutions/tree/master/0204-count-primes) |
 | [0445-add-two-numbers-ii](https://github.com/shravyavodnala2006/leetcode-solutions/tree/master/0445-add-two-numbers-ii) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/shravyavodnala2006/leetcode-solutions/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
+| [1863-sum-of-all-subset-xor-totals](https://github.com/shravyavodnala2006/leetcode-solutions/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [2816-double-a-number-represented-as-a-linked-list](https://github.com/shravyavodnala2006/leetcode-solutions/tree/master/2816-double-a-number-represented-as-a-linked-list) |
 ## Sorting
 |  |
@@ -109,6 +111,7 @@ My LeetCode practice solutions
 |  |
 | ------- |
 | [0078-subsets](https://github.com/shravyavodnala2006/leetcode-solutions/tree/master/0078-subsets) |
+| [1863-sum-of-all-subset-xor-totals](https://github.com/shravyavodnala2006/leetcode-solutions/tree/master/1863-sum-of-all-subset-xor-totals) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -119,6 +122,7 @@ My LeetCode practice solutions
 | [0338-counting-bits](https://github.com/shravyavodnala2006/leetcode-solutions/tree/master/0338-counting-bits) |
 | [0645-set-mismatch](https://github.com/shravyavodnala2006/leetcode-solutions/tree/master/0645-set-mismatch) |
 | [0693-binary-number-with-alternating-bits](https://github.com/shravyavodnala2006/leetcode-solutions/tree/master/0693-binary-number-with-alternating-bits) |
+| [1863-sum-of-all-subset-xor-totals](https://github.com/shravyavodnala2006/leetcode-solutions/tree/master/1863-sum-of-all-subset-xor-totals) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -146,6 +150,7 @@ My LeetCode practice solutions
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/shravyavodnala2006/leetcode-solutions/tree/master/0204-count-primes) |
+| [1863-sum-of-all-subset-xor-totals](https://github.com/shravyavodnala2006/leetcode-solutions/tree/master/1863-sum-of-all-subset-xor-totals) |
 ## Number Theory
 |  |
 | ------- |
@@ -331,4 +336,8 @@ My LeetCode practice solutions
 |  |
 | ------- |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/shravyavodnala2006/leetcode-solutions/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
+## Combinatorics
+|  |
+| ------- |
+| [1863-sum-of-all-subset-xor-totals](https://github.com/shravyavodnala2006/leetcode-solutions/tree/master/1863-sum-of-all-subset-xor-totals) |
 <!---LeetCode Topics End-->
